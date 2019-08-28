@@ -31,23 +31,10 @@ Here's a blank template to get started:
 ### Built With
 
 * []() Java 8
-* []() 
-* []()
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
 
 ### Installation
 
@@ -60,25 +47,15 @@ git clone https://github.com/andreasplado/pladoScriptSolutions
 Google: Java JRE JDK download
 Download and install newest JRE and JDK
 
-3.
-#### Download and install
-https://www.jetbrains.com/idea/download/#section=windows
-
-#### instructions provided by the link:
-https://forums.rspeer.org/topic/632/compile-rspeer-script-as-a-jar-in-intellij-idea/2
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-
 Here are going to be bunch of solutions for automated macro for the World best leading MMORPG called Runescape.
 
 
 <!-- ROADMAP -->
 ## Roadmap
-
-MISSING.
+Going for the best macros today.
 
 
 <!-- CONTRIBUTING -->
