@@ -22,11 +22,7 @@ Scripts for RSPeer
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
+PladoScriptSolutions offers a open-source community based help to develop automated scripts for the ldschool runescape client library.
 
 ### Built With
 
@@ -85,11 +81,3 @@ E-mail: andreasplado@gmail.com
 
 Project Link: [https://github.com/andreasplado/pladoScriptSolutions](https://github.com/andreasplado/pladoScriptSolutions)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
