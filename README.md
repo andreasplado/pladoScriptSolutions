@@ -22,7 +22,7 @@ Scripts for RSPeer
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-PladoScriptSolutions offers a open-source community based help to develop automated scripts for the ldschool runescape client library.
+PladoScriptSolutions offers a open-source community based help to develop automated scripts for the oldschool runescape client library.
 
 ### Built With
 
